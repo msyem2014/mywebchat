@@ -5,5 +5,8 @@
   "main": "mywebchat",
   "repository": "mywebchat",
   "author": "msyem2014 <msyem2014@gmail.com>",
-  "license": "1"
+  "license": "1",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
